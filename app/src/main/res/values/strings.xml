@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Apna Kitchen</string>
+    <string name="api_key"> 397b0087e68949e9a8df2386e89da857</string>
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drink</item>
+    </string-array>
+</resources>

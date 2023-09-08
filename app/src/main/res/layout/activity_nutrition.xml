@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:backgroundTint="@color/light_yellow"
+    android:background="@android:color/white"
+    tools:context=".NutritionActivity">
+
+    <!-- Toolbar for displaying the title -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:title="Nutritional Details"
+        app:titleTextColor="@android:color/holo_orange_dark" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- Recipe Name TextView -->
+            <TextView
+                android:id="@+id/recipe_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="Delicious Recipe"
+                android:textColor="@android:color/holo_green_dark"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <!-- Recipe Image -->
+            <ImageView
+                android:id="@+id/Recipe_Image"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_margin="16dp"
+                android:scaleType="centerCrop" />
+
+            <!-- Nutrient Information Header -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="8dp"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:textColor="@android:color/holo_red_dark"
+                android:text="Nutrient Information" />
+
+            <!-- RecyclerView for Nutrient Information -->
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycleView_nutri"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp" />
+
+            <!-- Recipe Properties Header -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="8dp"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:textColor="@android:color/holo_red_dark"
+                android:text="Recipe Properties" />
+
+            <!-- RecyclerView for Recipe Properties -->
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycleView_prop"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp" />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
