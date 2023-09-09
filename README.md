@@ -1,6 +1,8 @@
 # Apna Kitchen - Culinary App
 
-![applogo](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/929118d8-fb36-4d76-9e14-c8911a5089ea)
+
+<img src="https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/929118d8-fb36-4d76-9e14-c8911a5089ea" alt="applogo" width="200"/>
+
 
 
 [![GitHub Stars](https://img.shields.io/github/stars/VedantiBhoyar/Apna_Kitchen?style=for-the-badge&logo=github&color=yellow)](https://github.com/VedantiBhoyar/Apna_Kitchen/stargazers)
