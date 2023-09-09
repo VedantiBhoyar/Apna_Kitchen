@@ -66,6 +66,6 @@ Make healthier choices with ease. Each recipe comes with a comprehensive nutriti
 
 **Apna Kitchen** is more than an app; it's a culinary journey. Explore, create, and enjoy the art of cooking! 🍽️
 ---
-💖 If you've found this project helpful or interesting, I'd love your support! Please consider [starring](https://github.com/VedantiBhoyar/Apna_kitchen) this repository. Your appreciation motivates me to keep improving it and adding new features.
+If you've found this project helpful or interesting, I'd love your support! Please consider [starring](https://github.com/VedantiBhoyar/Apna_kitchen) this repository. Your appreciation motivates me to keep improving it and adding new features.
 
 
