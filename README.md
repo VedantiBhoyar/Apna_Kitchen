@@ -1,7 +1,9 @@
 # Apna Kitchen - Culinary App
 
 
-<img src="https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/929118d8-fb36-4d76-9e14-c8911a5089ea" alt="applogo" width="200"/>
+<div align="center">
+  <img src="https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/929118d8-fb36-4d76-9e14-c8911a5089ea" alt="applogo" width="200"/>
+</div>
 
 
 
@@ -66,4 +68,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 **Apna Kitchen** is more than an app; it's a culinary journey. Explore, create, and enjoy the art of cooking! 🍽️
 
-[![View Demo](https://img.shields.io/badge/View%20Demo-blue?style=for-the-badge)](https://yourdemoURL.com)
+[![View Demo](https://img.shields.io/badge/View%20Demo-blue?style=for-the-badge)](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/511a2927-d677-488a-ac48-e87c8c8de435)
