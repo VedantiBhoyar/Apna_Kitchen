@@ -1,16 +1,17 @@
 # Apna Kitchen - Culinary App
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ApnaKitchen?style=flat&logo=github&color=yellow)](https://github.com/yourusername/ApnaKitchen/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/ApnaKitchen?style=flat&logo=github&color=green)](https://github.com/yourusername/ApnaKitchen/network/members)
-[![License](https://img.shields.io/github/license/yourusername/ApnaKitchen?style=flat&logo=opensourceinitiative&color=blue)](LICENSE)
+![applogo](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/929118d8-fb36-4d76-9e14-c8911a5089ea)
+
+
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ApnaKitchen?style=for-the-badge&logo=github&color=yellow)](https://github.com/yourusername/ApnaKitchen/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/yourusername/ApnaKitchen?style=for-the-badge&logo=github&color=green)](https://github.com/yourusername/ApnaKitchen/network/members)
+[![License](https://img.shields.io/github/license/yourusername/ApnaKitchen?style=for-the-badge&logo=opensourceinitiative&color=blue)](LICENSE)
 
 Welcome to **Apna Kitchen** - Your Gateway to Culinary Excellence! 🍳
 
-## Overview
+## Project Overview
 
 Apna Kitchen is a feature-rich Android cooking app designed to transform your cooking experience. Explore a vast repository of recipes, discover new culinary delights, and streamline your meal preparation with ease.
-
-![Apna Kitchen App Screenshot](screenshot.png)
 
 ## Key Features
 
@@ -22,24 +23,36 @@ Apna Kitchen is a feature-rich Android cooking app designed to transform your co
 - **Nutritional Insights**: Make informed choices with comprehensive nutrition charts for each recipe.
 - **Powered by Retrofit and Picasso**: Leveraging the capabilities of Retrofit for efficient data retrieval and Picasso for smooth image handling.
 
-## Getting Started
+## Detailed Explanations
 
-1. **Clone** this repository to your local machine.
-2. **Open** the project in Android Studio.
-3. **Build and Run** the app on your Android emulator or physical device.
+### Visual Delight
+The app boasts a visually stunning food gallery that offers a feast for your eyes. Each recipe card provides real-time statistics on likes, servings, and dietary classifications, helping you select the perfect dish for any occasion.
 
-## How to Contribute
+### Cooking Timer
+Never lose track of time in the kitchen. Our cooking timer feature provides estimated cooking times for every recipe, ensuring you plan your meal preparation effectively.
 
-We welcome contributions to enhance Apna Kitchen. To contribute:
+### Smart Search
+Find recipes effortlessly with our powerful search bar. Whether you're looking for specific ingredients or a particular dish, Apna Kitchen has you covered.
 
-1. **Fork** the repository.
-2. Create a new branch for your feature or bug fix.
-3. Implement and **thoroughly test** your changes.
-4. Submit a well-documented **pull request** explaining your modifications.
+### Categorical Brilliance
+Filtering recipes by category has never been easier. Our intuitive spinner interface lets you explore a wide variety of culinary styles, from appetizers to desserts.
 
-## Support and Contact
+### Comprehensive Details
+Dive into the heart of each recipe with detailed information. Discover the precise list of ingredients, the equipment you'll need, and step-by-step instructions for flawless execution.
 
-For inquiries, feedback, or assistance, please reach out to us at [your_email@example.com](mailto:your_email@example.com).
+### Nutritional Insights
+Make healthier choices with ease. Each recipe comes with a comprehensive nutrition chart, providing valuable insights into its nutritional properties.
+
+## App Video
+
+[![Watch App Video](video_thumbnail.png)](https://yourvideourl.com)
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshot1.png" alt="Apna Kitchen App Screenshot 1" width="250" height="500">
+  <img src="screenshot2.png" alt="Apna Kitchen App Screenshot 2" width="250" height="500">
+</p>
 
 ## License
 
@@ -49,4 +62,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 **Apna Kitchen** is more than an app; it's a culinary journey. Explore, create, and enjoy the art of cooking! 🍽️
 
-[View Demo](https://yourdemoURL.com) | [Report a Bug](https://github.com/yourusername/ApnaKitchen/issues)
+[![View Demo](https://img.shields.io/badge/View%20Demo-blue?style=for-the-badge)](https://yourdemoURL.com)
