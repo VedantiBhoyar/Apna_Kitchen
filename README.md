@@ -3,8 +3,8 @@
 ![applogo](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/929118d8-fb36-4d76-9e14-c8911a5089ea)
 
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ApnaKitchen?style=for-the-badge&logo=github&color=yellow)](https://github.com/yourusername/ApnaKitchen/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/ApnaKitchen?style=for-the-badge&logo=github&color=green)](https://github.com/yourusername/ApnaKitchen/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ApnaKitchen?style=for-the-badge&logo=github&color=yellow)](https://github.com/VedantiBhoyar/Apna_Kitchen/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/yourusername/ApnaKitchen?style=for-the-badge&logo=github&color=green)](https://github.com/VedantiBhoyar/Apna_Kitchen/network/members)
 [![License](https://img.shields.io/github/license/yourusername/ApnaKitchen?style=for-the-badge&logo=opensourceinitiative&color=blue)](LICENSE)
 
 Welcome to **Apna Kitchen** - Your Gateway to Culinary Excellence! 🍳
@@ -45,7 +45,8 @@ Make healthier choices with ease. Each recipe comes with a comprehensive nutriti
 
 ## App Video
 
-[![Watch App Video](video_thumbnail.png)](https://yourvideourl.com)
+[![Watch App Video](video_thumbnail.png)](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/511a2927-d677-488a-ac48-e87c8c8de435)
+
 
 ## Screenshots
 
