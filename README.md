@@ -53,11 +53,12 @@ Make healthier choices with ease. Each recipe comes with a comprehensive nutriti
 [![Watch App Video](video_thumbnail.png)](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/511a2927-d677-488a-ac48-e87c8c8de435)
 
 
+
 ## Screenshots
 
 <p align="center">
-  <img src="screenshot1.png" alt="Apna Kitchen App Screenshot 1" width="250" height="500">
-  <img src="screenshot2.png" alt="Apna Kitchen App Screenshot 2" width="250" height="500">
+![image](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/e4130d7b-0fec-4b99-96f4-6b4d51992e02)
+
 </p>
 
 
