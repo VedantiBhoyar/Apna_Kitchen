@@ -9,7 +9,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/VedantiBhoyar/Apna_Kitchen?style=for-the-badge&logo=github&color=yellow)](https://github.com/VedantiBhoyar/Apna_Kitchen/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/VedantiBhoyar/Apna_Kitchen?style=for-the-badge&logo=github&color=green)](https://github.com/VedantiBhoyar/Apna_Kitchen/network/members)
-[![License](https://img.shields.io/github/license/VedantiBhoyar/Apna_Kitchen?style=for-the-badge&logo=opensourceinitiative&color=blue)](LICENSE)
+
 
 
 Welcome to **Apna Kitchen** - Your Gateway to Culinary Excellence! 🍳
@@ -60,12 +60,8 @@ Make healthier choices with ease. Each recipe comes with a comprehensive nutriti
   <img src="screenshot2.png" alt="Apna Kitchen App Screenshot 2" width="250" height="500">
 </p>
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 **Apna Kitchen** is more than an app; it's a culinary journey. Explore, create, and enjoy the art of cooking! 🍽️
 
-[![View Demo](https://img.shields.io/badge/View%20Demo-blue?style=for-the-badge)](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/511a2927-d677-488a-ac48-e87c8c8de435)
