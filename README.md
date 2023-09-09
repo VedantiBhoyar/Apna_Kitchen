@@ -57,8 +57,9 @@ Make healthier choices with ease. Each recipe comes with a comprehensive nutriti
 ## Screenshots
 
 
-![image](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/e4130d7b-0fec-4b99-96f4-6b4d51992e02)
 
+
+![Presentation2](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/4c7f7298-ab43-4889-9ba3-f5869383991c)
 
 
 ---
