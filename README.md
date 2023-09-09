@@ -3,9 +3,10 @@
 ![applogo](https://github.com/VedantiBhoyar/Apna_Kitchen/assets/71519458/929118d8-fb36-4d76-9e14-c8911a5089ea)
 
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ApnaKitchen?style=for-the-badge&logo=github&color=yellow)](https://github.com/VedantiBhoyar/Apna_Kitchen/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/ApnaKitchen?style=for-the-badge&logo=github&color=green)](https://github.com/VedantiBhoyar/Apna_Kitchen/network/members)
-[![License](https://img.shields.io/github/license/yourusername/ApnaKitchen?style=for-the-badge&logo=opensourceinitiative&color=blue)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/VedantiBhoyar/Apna_Kitchen?style=for-the-badge&logo=github&color=yellow)](https://github.com/VedantiBhoyar/Apna_Kitchen/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/VedantiBhoyar/Apna_Kitchen?style=for-the-badge&logo=github&color=green)](https://github.com/VedantiBhoyar/Apna_Kitchen/network/members)
+[![License](https://img.shields.io/github/license/VedantiBhoyar/Apna_Kitchen?style=for-the-badge&logo=opensourceinitiative&color=blue)](LICENSE)
+
 
 Welcome to **Apna Kitchen** - Your Gateway to Culinary Excellence! 🍳
 
